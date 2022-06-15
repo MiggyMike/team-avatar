@@ -1,2 +1,9 @@
-// The will the be header
-// add nav set up and etc
+const Header = () => {
+  return (
+    <div class="header">
+      <h1>Header</h1>
+    </div>
+  );
+};
+
+export default Header;
